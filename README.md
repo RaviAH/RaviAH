@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviAH
 - 👀 I’m interested in frelancing and opensource
-- 🌱 I’m currently learning java and GoLang
+- 🌱 I’m currently having experience in java and GoLang
 - 💞️ I’m looking to collaborate on linkedIn
 - 📫 How to reach me https://www.linkedin.com/in/raviah/
 
